@@ -1,0 +1,2 @@
+// El callback es útil en funciones simples y rápidas, se usa cuando no se necesita encadenar muchas operaciones asíncronas
+// La promesa es útil cuando se trabaja con operaciones asíncronas más complejas, codigos que puedan llegar a fallar
